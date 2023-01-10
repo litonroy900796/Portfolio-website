@@ -27,19 +27,19 @@ export const RESUME = {
   ],
   experience: [
     {
-      year: "2018 - Present",
+      year: "2021 (6 month) ",
       company: "KS Devware",
-      role: "Fronted Web Developer",
+      role: "Intern Fronted Web Developer",
       description:
         "Adipisicing Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     },
-    // {
-    //   year: "2015 - 2017",
-    //   company: "Google LLC",
-    //   role: "Back-end Developer",
-    //   description:
-    //     "Adipisicing Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    // },
+    {
+      year: "2022 - Present",
+      company: "CodeWare Limited",
+      role: "Front-end Developer",
+      description:
+        "Adipisicing Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    },
     // {
     //   year: "2010 - 2015",
     //   company: "Pocotep LLC",
@@ -63,7 +63,7 @@ export const RESUME = {
     },
     {
       name: "JavaScript",
-      parentage: 70,
+      parentage: 85,
     },
     {
       name: "Jquery",
@@ -87,7 +87,11 @@ export const RESUME = {
     },
     {
       name: "Redux",
-      parentage: 60,
+      parentage: 70,
+    },
+    {
+      name: "Next JS",
+      parentage: 80,
     },
   ],
 };

@@ -67,5 +67,21 @@ export const PORTFOLIO = {
       type: "Website",
       tags: ["Web Design", "Graphic Design", "Mobile Apps"],
     },
+    {
+      title: "Face Me E-commerce  Website ",
+      description:
+        "Adipisicing Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      video: "https://www.youtube.com/watch?v=zw7fXtKqTkg",
+      images: {
+        default: "/Asset/portfolio/face-me.png",
+        variants: [
+          "/Asset/portfolio/face-me.png",
+          "/Asset/portfolio/face-me.png",
+        ],
+      },
+      link: "http://103.123.8.251:3005/",
+      type: "Website",
+      tags: ["Web Design", "Graphic Design", "Mobile Apps"],
+    },
   ],
 };
