@@ -10,6 +10,6 @@ export const HERO = {
   bgImage: "/Asset/hero_bg.jpg",
   button: {
     text: "My CV",
-    url: "https://drive.google.com/file/d/12NZ21EZVg1Em6gXTmY4za0EegEKYZ6YK/view?usp=sharing",
+    url: "/Asset/Liton's Resume.pdf",
   },
 };

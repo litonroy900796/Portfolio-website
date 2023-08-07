@@ -83,7 +83,7 @@ export const RESUME = {
     },
     {
       name: "git",
-      parentage: 50,
+      parentage: 90,
     },
     {
       name: "Redux",
@@ -92,6 +92,10 @@ export const RESUME = {
     {
       name: "Next JS",
       parentage: 80,
+    },
+    {
+      name: "Wordpress",
+      parentage: 70,
     },
   ],
 };
